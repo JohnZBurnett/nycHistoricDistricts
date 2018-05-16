@@ -1,5 +1,0 @@
-require 'json'
-require 'pry'
-
-historic_file = File.read('nyc-historic-districts.json')
-binding.pry
